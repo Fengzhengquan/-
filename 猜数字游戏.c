@@ -108,5 +108,5 @@ int main()
 		else
 			printf("选择错误，重新选择");
 	} while (a);
-
+	return 0;
 }
